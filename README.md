@@ -1,6 +1,7 @@
 # 📊 Examining Financial Contagion in Modern Times
 
 This project asks a simple but consequential question: **if the U.S. stock market crashes, does the rest of the world fall with it?** It replicates and extends Forbes and Rigobon's (2002) influential paper, *No Contagion, Only Interdependence*, testing whether their findings on the 1987 crash still hold — and whether the same logic applies to the dotcom bubble, the 2008 financial crisis, and more recent shocks including COVID-19, the 2022 policy tightening period, and 2024–2025 market uncertainty.
+
 ---
 
 ## Tools and Methods
